@@ -1,0 +1,115 @@
+{
+  com.badlogic.gdx.graphics.Color: {
+    white: { a: 1, b: 1, g: 1, r: 1 },
+    red: { a: 1, b: 0, g: 0, r: 1 },
+    black: { a: 1, b: 0, g: 0, r: 0 }
+    green: { a: 1.0, b: 0.16470589, g: 1.0, r: 0.0 }
+  },
+
+"com.ray3k.tenpatch.TenPatchDrawable": {
+  "NoActive": {
+    "region": "noActive",
+    "horizontalStretchAreas": [ 6, 61 ],
+    "verticalStretchAreas": [ 7, 60 ],
+    "tiling": false,
+    "minWidth": 68,
+    "minHeight": 68,
+    "rightWidth": 12,
+    "leftWidth": 12,
+    "bottomHeight": 14,
+    "topHeight": 14,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetXspeed": 0,
+    "offsetYspeed": 0,
+    "frameDuration": 0.03,
+    "regions": [],
+    "playMode": 2,
+    "crushMode": 0
+  },
+  "Disable": {
+    "region": "disable",
+    "horizontalStretchAreas": [ 6, 61 ],
+    "verticalStretchAreas": [ 7, 60 ],
+    "tiling": false,
+    "minWidth": 68,
+    "minHeight": 68,
+    "rightWidth": 12,
+    "leftWidth": 12,
+    "bottomHeight": 14,
+    "topHeight": 14,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetXspeed": 0,
+    "offsetYspeed": 0,
+    "frameDuration": 0.03,
+    "regions": [],
+    "playMode": 2,
+    "crushMode": 0
+  },
+    "background": {
+      "region": "disable",
+      "horizontalStretchAreas": [ 24, 43 ],
+      "verticalStretchAreas": [ 22, 45 ],
+      "tiling": false,
+      "minWidth": 68,
+      "minHeight": 68,
+      "rightWidth": 16,
+      "leftWidth": 16,
+      "bottomHeight": 12,
+      "topHeight": 12,
+      "offsetX": 0,
+      "offsetY": 0,
+      "offsetXspeed": 0,
+      "offsetYspeed": 0,
+      "frameDuration": 0.03,
+      "regions": [],
+      "playMode": 2,
+      "crushMode": 0
+    },
+
+  "Active": {
+    "region": "active",
+    "horizontalStretchAreas": [ 6, 61 ],
+    "verticalStretchAreas": [ 7, 60 ],
+    "tiling": false,
+    "minWidth": 68,
+    "minHeight": 68,
+    "rightWidth": 12,
+    "leftWidth": 12,
+    "bottomHeight": 14,
+    "topHeight": 14,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetXspeed": 0,
+    "offsetYspeed": 0,
+    "frameDuration": 0.03,
+    "regions": [],
+    "playMode": 2,
+    "crushMode": 0
+  },
+},
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": {
+      "font": "default-font",
+      "background": "background"
+    }
+  },
+  "TextButtonStyle": {
+    "default": {
+      "font": default-font,
+      "up": "NoActive",
+      "down": "NoActive",
+      "over": "Active",
+      "disabled": "disable"
+    }
+    "correct": {
+      "font": default-font,
+      "up": "NoActive",
+      "down": "NoActive",
+      "over": "Active",
+      "disabled": "disable"
+      "downFontColor": "green"
+    }
+}
+}

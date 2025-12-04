@@ -1,0 +1,72 @@
+{
+  "stage_0": {
+    "theme": "Potario",
+    "question": "Do you like potatoes?",
+    "answer": [
+      "Yes",
+      "Yes!",
+      "Yes?"
+    ],
+    "correct_answer": 1
+  },
+  "stage_1": {
+    "theme": "DolanVsKEP",
+    "question": "Question: Would a friend risk destroying the office to repay a long-time debt to his old buddy?",
+    "answer": [
+      "Anything is possible in our world",
+      "I'm ready",
+      "I wouldn't risk my life"
+    ],
+    "correct_answer": 1
+  },
+  "stage_2": {
+    "theme": "DolanVsKEP",
+    "question": "What do you think about the organization for 'internet protection'?",
+    "answer": [
+      "Useless crap",
+      "A friend's debt is more important",
+      "Mmm... 'Three Crusts' croutons."
+    ],
+    "correct_answer": 1
+  },
+  "stage_3": {
+    "theme": "DolanVsKEP",
+    "question": "What does 'KEP' stand for?",
+    "answer": [
+      "Corporation of F*cking Idiots",
+      "Kangaroos Eat Pets",
+      "Comfortable Unified Path"
+    ],
+    "correct_answer": 0
+  },
+  "stage_4": {
+    "theme": "Potario",
+    "question": "Can 'potato' create totalitarianism?",
+    "answer": [
+      "Will I get 8 years of hard time for this?",
+      "Isn't Lukashenko proof enough?",
+      "Yes, but not me"
+    ],
+    "correct_answer": 2
+  },
+  "stage_5": {
+    "theme": "Potario",
+    "question": "Would a person betray their friends if they had alternative opinions?",
+    "answer": [
+      "Definitely, no discussion needed",
+      "No way! Friends should have their own point of view",
+      "Maybe they would"
+    ],
+    "correct_answer": 2
+  },
+  "stage_6": {
+    "theme": "DolanVSKEP",
+    "question": "Can one person destroy the office of an important organization with just a pack of 'Three Crusts' croutons?",
+    "answer": [
+      "Definitely yes",
+      "If so, then Ignat is a furry",
+      "To me, this question is incorrect and inaccurate"
+    ],
+    "correct_answer": 0
+  }
+}

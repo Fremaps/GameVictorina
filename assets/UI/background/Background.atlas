@@ -1,0 +1,48 @@
+
+Background.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Background0
+  rotate: false
+  xy: 1, 197
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Background1
+  rotate: false
+  xy: 1, 67
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DolanBackground0
+  rotate: false
+  xy: 131, 261
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DolanBackground1
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+friesBackground0
+  rotate: false
+  xy: 131, 195
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+friesBackground1
+  rotate: false
+  xy: 197, 261
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

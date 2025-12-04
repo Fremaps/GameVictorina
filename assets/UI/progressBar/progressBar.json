@@ -1,0 +1,61 @@
+{
+"com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable": {
+	"bar": {
+		"region": "bar",
+		"minWidth": 4,
+		"minHeight": 16
+	}
+},
+"com.ray3k.tenpatch.TenPatchDrawable": {
+	"background1": {
+		"region": "background",
+		"horizontalStretchAreas": [ 10, 37 ],
+		"verticalStretchAreas": [ 9, 38 ],
+		"tiling": false,
+		"minWidth": 48,
+		"minHeight": 48,
+		"rightWidth": 17,
+		"leftWidth": 17,
+		"bottomHeight": 0,
+		"topHeight": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"animationKnob": {
+		"region": "1anim",
+		"horizontalStretchAreas": [ 0, 27 ],
+		"verticalStretchAreas": [ 0, 154 ],
+		"tiling": false,
+		"minWidth": 28,
+		"minHeight": 155,
+		"rightWidth": 0,
+		"leftWidth": 0,
+		"bottomHeight": 0,
+		"topHeight": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.57,
+		"regions": [
+			"1anim",
+			"2anim"
+		],
+		"playMode": 2,
+		"crushMode": 0
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+	"default-horizontal": {
+		"background": "background1",
+		"knob": "animationKnob",
+		"knobBefore": "bar"
+	}
+}
+}

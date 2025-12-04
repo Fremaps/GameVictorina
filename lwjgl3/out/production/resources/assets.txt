@@ -1,0 +1,22 @@
+UI/background/Background.atlas
+UI/background/Background.json
+UI/background/Background.png
+UI/button/Final-UI.atlas
+UI/button/Final-UI.json
+UI/button/Final-UI.png
+UI/discleimer/Discleimer.png
+UI/progressBar/progressBar.atlas
+UI/progressBar/progressBar.json
+UI/progressBar/progressBar.png
+font/Determination_RUS.ttf
+libgdx.png
+question/question_EN.json
+question/question_RU.json
+videos/0817 (1).mp4
+videos/0817 (1).webm
+videos/CoreGameplay.mp4
+videos/CoreGameplay.webm
+videos/final.webm
+videos/turb.webm
+videos/ytr81sonya69e07d.mp4
+videos/ytr81sonya69e07d.webm
